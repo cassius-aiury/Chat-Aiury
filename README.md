@@ -22,4 +22,32 @@ Este é um pequeno chatbot em terminal que interage com o usuário perguntando n
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/Chat-Aiury.git
+git clone https://github.com/cassius-aiury/Chat-Aiury.git
+
+
+🔥 Aprendizados
+Este projeto foi feito como parte dos meus estudos em programação, focando em:
+
+Sintaxe básica de Python.
+
+Condicionais (if, else, elif).
+
+Loops (while).
+
+Tratamento de erros (try/except).
+
+Entrada e saída de dados no terminal.
+
+
+✨ Futuras melhorias
+Tornar o chat mais inteligente.
+
+Adicionar menus.
+
+Conectar a APIs externas.
+
+Criar uma interface gráfica (GUI) futuramente.
+
+Feito com muita curiosidade e aprendizado por Cássius Aiury 🚀
+
+
